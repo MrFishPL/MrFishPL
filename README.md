@@ -10,7 +10,7 @@
 Hi, I'm Michal Karp, 18yo
 
 I won **a silver medal** in the **[International Olympiad in AI](https://ioai-official.org/)** (August 2025, China)  
-My team and I placed **1st worldwide** in the team challenge during the Olympiad.
+My team and I placed **1st worldwide** in the team challenge during the Olympiad.<br>
 I came in 6th place in Poland at the Polish National AI Olympiad (June 2025, Poland)
 
 Co-authored research papers:
